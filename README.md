@@ -7,7 +7,7 @@ Summary:
 When you have command line parameters, you can run the same tool with -i (interactive).
 If using a wrapper, ANY CLI tool can be executed against a resource file to interactively select commands and parameters.
 
->> Aiming for multi-platform script (PHP / Python / Ruby) called natively by bash and batch (Windows) <<
+Aiming for multi-platform script (PHP / Python / Ruby) called natively by bash and batch (Windows)
 
 This will include clint library, which will parse a params file and load ascii menu with params to toggle or input.
 
